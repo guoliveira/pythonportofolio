@@ -6,3 +6,5 @@ No ambito de um projecto maior da [Data Science for Social Good](https://www.dss
 
 - [Web_Scrap](projectos/Web_Scrapper_DGS.py)
 
+Baseado neste link https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf
+
