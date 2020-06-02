@@ -8,4 +8,7 @@ Está dividido em dois grandes grupos:
 
 :alien: [Cursos práticos](cursos/cursos.md) 
 
-**Actualizado a 31/05/2020**
+**Base:** Comecei a minha carreira em data science como "ETL Trainee" em 2017. 
+Ao longo dos anos fui aperfeiçoando a minha capacidade de realizar processos ETL (em SSIS e Python), de analisar dados, de desenvolver estruturas de base de dados relacionais e fui aprendendo a trabalhar com ferramentas Big Data como o Spark.
+
+**Actualizado a 02/06/2020**
