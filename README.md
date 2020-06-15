@@ -12,4 +12,4 @@ Está dividido em dois grandes grupos:
 Ao longo dos anos fui aperfeiçoando a minha capacidade de realizar processos ETL (em SSIS e Python), de analisar dados, de desenvolver estruturas de base de dados relacionais e fui aprendendo a trabalhar com ferramentas Big Data como o Spark.
 No entanto, sempre senti uma grande necessidade de mostrar que scripts consigo desenvolver.
 
-**Actualizado a 04/06/2020**
+**Actualizado a 15/06/2020**
