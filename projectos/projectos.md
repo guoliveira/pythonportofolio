@@ -8,8 +8,4 @@ O objectivo desta secção é apresentar um rol de scripts em projectos individu
 
 desta forma desenvolvi o script the python /Web_Scrapper_DGS.py
 
-## Analisar a sensibilidade nas redes sociais sobre temas ambientais
-
-Baseado neste link https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf
-
 
